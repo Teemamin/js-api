@@ -1,4 +1,4 @@
-const API_KEY = 'r7eSqXkDRjn7qI7VWTkmReizoGM';
+const API_KEY = '';
 const API_URL = 'https://ci-jshint.herokuapp.com/api';
 //bootstrap5 allows to trigger modal using JS, they suppy the methods to use
 // need to load your script after bootstrap Js files
